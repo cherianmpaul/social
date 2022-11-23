@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Photo Share React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This App helps you to share photos online, comment and search. 
 
 ## Available Scripts
 
